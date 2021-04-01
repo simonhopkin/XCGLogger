@@ -7,6 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3E2E196D2615DDEA00FE3580 /* XCGLogWrapper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E2E196C2615DDEA00FE3580 /* XCGLogWrapper.swift */; };
+		3E2E196E2615DDEA00FE3580 /* XCGLogWrapper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E2E196C2615DDEA00FE3580 /* XCGLogWrapper.swift */; };
+		3E2E196F2615DDEA00FE3580 /* XCGLogWrapper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E2E196C2615DDEA00FE3580 /* XCGLogWrapper.swift */; };
+		3E2E19702615DDEA00FE3580 /* XCGLogWrapper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E2E196C2615DDEA00FE3580 /* XCGLogWrapper.swift */; };
 		5501A3841D761F9A00CB8ABE /* BaseDestination.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5501A3831D761F9A00CB8ABE /* BaseDestination.swift */; };
 		5501A3851D761F9A00CB8ABE /* BaseDestination.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5501A3831D761F9A00CB8ABE /* BaseDestination.swift */; };
 		5501A3861D761F9A00CB8ABE /* BaseDestination.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5501A3831D761F9A00CB8ABE /* BaseDestination.swift */; };
@@ -185,6 +189,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		3E2E196C2615DDEA00FE3580 /* XCGLogWrapper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = XCGLogWrapper.swift; sourceTree = "<group>"; };
 		5501A3831D761F9A00CB8ABE /* BaseDestination.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BaseDestination.swift; sourceTree = "<group>"; };
 		5501A3881D7624B900CB8ABE /* DestinationProtocol.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DestinationProtocol.swift; sourceTree = "<group>"; };
 		5501A38D1D76250600CB8ABE /* ConsoleDestination.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ConsoleDestination.swift; sourceTree = "<group>"; };
@@ -477,6 +482,7 @@
 				5501A3B31D762CDE00CB8ABE /* Misc */,
 				5501A3C41D76640F00CB8ABE /* ObjectiveC */,
 				55E3EE4819D76F280068C3A7 /* Supporting Files */,
+				3E2E196C2615DDEA00FE3580 /* XCGLogWrapper.swift */,
 			);
 			name = XCGLogger;
 			path = Sources/XCGLogger;
@@ -1001,6 +1007,7 @@
 				55A4B4F11D7AADA00006463B /* UserInfoFilter.swift in Sources */,
 				5501A3A81D7625DA00CB8ABE /* TestDestination.swift in Sources */,
 				558A04561E95A6A200D975BD /* AutoRotatingFileDestination.swift in Sources */,
+				3E2E19702615DDEA00FE3580 /* XCGLogWrapper.swift in Sources */,
 				556DA1821D78B41600C7E546 /* FileNameFilter.swift in Sources */,
 				556DA1861D78B41600C7E546 /* FilterProtocol.swift in Sources */,
 				55AC33E21D8FB4FE00614D28 /* UserInfoHelpers.swift in Sources */,
@@ -1032,6 +1039,7 @@
 				55A4B4EF1D7AADA00006463B /* UserInfoFilter.swift in Sources */,
 				5501A3A61D7625D900CB8ABE /* TestDestination.swift in Sources */,
 				558A04541E95A6A200D975BD /* AutoRotatingFileDestination.swift in Sources */,
+				3E2E196E2615DDEA00FE3580 /* XCGLogWrapper.swift in Sources */,
 				556DA1801D78B41600C7E546 /* FileNameFilter.swift in Sources */,
 				556DA1841D78B41600C7E546 /* FilterProtocol.swift in Sources */,
 				55AC33E01D8FB4FE00614D28 /* UserInfoHelpers.swift in Sources */,
@@ -1087,6 +1095,7 @@
 				55A4B4EE1D7AADA00006463B /* UserInfoFilter.swift in Sources */,
 				5501A3A51D7625D900CB8ABE /* TestDestination.swift in Sources */,
 				558A04531E95A6A200D975BD /* AutoRotatingFileDestination.swift in Sources */,
+				3E2E196D2615DDEA00FE3580 /* XCGLogWrapper.swift in Sources */,
 				556DA17F1D78B41600C7E546 /* FileNameFilter.swift in Sources */,
 				556DA1831D78B41600C7E546 /* FilterProtocol.swift in Sources */,
 				55AC33DF1D8FB4FE00614D28 /* UserInfoHelpers.swift in Sources */,
@@ -1126,6 +1135,7 @@
 				55A4B4F01D7AADA00006463B /* UserInfoFilter.swift in Sources */,
 				5501A3A71D7625D900CB8ABE /* TestDestination.swift in Sources */,
 				558A04551E95A6A200D975BD /* AutoRotatingFileDestination.swift in Sources */,
+				3E2E196F2615DDEA00FE3580 /* XCGLogWrapper.swift in Sources */,
 				556DA1811D78B41600C7E546 /* FileNameFilter.swift in Sources */,
 				556DA1851D78B41600C7E546 /* FilterProtocol.swift in Sources */,
 				55AC33E11D8FB4FE00614D28 /* UserInfoHelpers.swift in Sources */,
